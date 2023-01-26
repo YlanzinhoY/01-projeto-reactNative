@@ -37,7 +37,7 @@ export const styles = StyleSheet.create({
         borderRadius: 8
     },
     hr: {
-        borderBottomColor: 'black',
+        borderBottomColor: 'white',
         borderBottomWidth: StyleSheet.hairlineWidth,
         marginTop: 10
     },
